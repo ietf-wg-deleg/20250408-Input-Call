@@ -1,3 +1,9 @@
+## Adoption Preferences - Mailing List
+
+| draft-homburg | draft-wesplaap | No preference stated |
+|---------------|----------------|----------------------|
+| ~10 | ~22 | 5 |
+
 ## Feedback, by requirement
 
 | Requirement | draft-homburg | draft-wesplaap |
